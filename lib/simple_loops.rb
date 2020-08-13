@@ -24,6 +24,14 @@ def output_array(array)
   end
 end
 
+#def output_array(array)
+  index = 0
+  while array[index] do
+    puts array[index]
+    index += 1 
+  end
+end
+
 def return_string_array(array)
   index = 0 
   string_array = []
