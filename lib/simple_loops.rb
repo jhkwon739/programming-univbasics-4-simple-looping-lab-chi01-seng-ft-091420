@@ -26,7 +26,7 @@ end
 
 #alternative solution
 #def output_array(array)
-#  index = 0
+#  count = 0
 #  while array[index] do
 #    puts array[index]
 #    index += 1 
