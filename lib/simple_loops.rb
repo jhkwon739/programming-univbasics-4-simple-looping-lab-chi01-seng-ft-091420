@@ -40,5 +40,6 @@ def return_string_array(array)
     string_array.push(array[index].to_s)
     index += 1 
   end
-  return string_array
+#  return string_array
+  string_array
 end
