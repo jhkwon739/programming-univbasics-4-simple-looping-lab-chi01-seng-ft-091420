@@ -27,9 +27,9 @@ end
 #alternative solution
 #def output_array(array)
 #  count = 0
-#  while array[index] do
-#    puts array[index]
-#    index += 1 
+#  while count < array.length do
+#    puts array[count]
+#    count += 1 
 #  end
 #end
 
